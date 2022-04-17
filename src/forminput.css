@@ -1,0 +1,174 @@
+.formhandler{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    left: 0px;
+    top: 0px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-left: 12em;
+}
+
+.content{
+    display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+position: static;
+width: 540px;
+height: 100%;
+left: 0px;
+top: 0px;
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-left: 12em;
+
+}
+
+span{
+    font-size:68px;
+}
+.letstext{
+    font-size: 64px;
+}
+.paragraph{
+    width: 540px;
+    height: 96px;
+    left: 0px;
+    top: 212px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    line-height: 32px;
+    font-feature-settings: 'salt' on, 'liga' off;
+    color: #18191F;
+}
+
+input{
+    display: flex;
+    flex-direction: row;
+    padding: 14px 16px;
+    left: 0px;
+    background: #F4F5F7;
+    flex: none; 
+    flex-grow: 0; 
+    margin: 16px 0px;
+}
+
+.heythere{
+left: 0px;
+top: 0px;
+font-family: 'Inter';
+font-style: normal;
+line-height: 25px;
+font-feature-settings: 'salt' on, 'liga' off;
+color: #18191F;
+margin-top: 14em;
+
+
+}
+
+header{
+    position: absolute;
+    width: 100%;
+    
+    left: 0px;
+    top: 0px; 
+}
+
+.octostore{
+    position: absolute;
+display: grid;
+align-items: center;
+place-content: center;
+width: 184px;
+height: 9px;
+left: 576px;
+top: 36px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 9px;
+/* identical to box height, or 25% */
+
+color: #000000;
+/* position: absolute; */
+
+
+/* Default / White */
+
+/* background: #FFFFFF; */
+/* Navbar Shadow */
+
+}
+
+.line{
+    margin-top: 4em;
+    height: 1px;
+    background:rgb(236, 236, 248);
+}
+.let_test{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    
+    position: static;
+    width: 540px;
+    /* height: 440px; */
+    /* left: 0px;
+    top: 0px; */
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    align-self: center;
+    flex-grow: 0;
+    /* margin: 32px 0px; */
+}
+
+
+
+footer{
+
+background: #0B0D17;
+padding: 23px;
+bottom: 0;
+width: 100%;
+
+
+}
+.insidefooter{
+    /* position: absolute; */
+    /* width: 253px;
+    height: 24px; */
+    /* left: 35px; */
+    /* top: calc(50% - 24px/2); */
+    text-align: center;
+    /* Body / Body 2 */
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    /* identical to box height, or 171% */
+    
+    font-feature-settings: 'salt' on, 'liga' off;
+    
+    /* Text / Gray 300 */
+    
+    color: #D9DBE1;
+}
+.spanning{
+    font-size: 13px;
+}
+

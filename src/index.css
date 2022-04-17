@@ -1,0 +1,55 @@
+*{
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 0;
+  padding: 0;
+}
+html,body{
+  width: 100%;
+  margin:0px;
+  padding: 0px;
+  
+position: relative;
+/* width: 100%; */
+height: 100%;
+
+/* Default / White */
+
+background: #FFFFFF;
+
+}
+
+button{
+  background: rgb(83, 80, 224)!important;
+  padding: 15px 30px;
+font-size: 15px;
+border: 1px solid white;
+color: white;
+margin-bottom: 8em; 
+
+}
+
+.mockcreative{
+  position: static;
+width: 100%;
+height: 100%;
+left: 578px;
+top: 20px;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 38px;
+}
+
+.addpics{
+  position: absolute;
+  width: 500px;
+  height: 450px;
+  left: 722px;
+  top: 200px;
+background: url(pictures/Mock\ Creative1.png);
+}
